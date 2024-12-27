@@ -1,2 +1,3 @@
-# evalweb2position-urbex-v2
-convert registration codes to position througth databases, this one is focused for urbex and the databases will be heavier.
+# evalweb2position 2.0 (since the previous one got patched)
+## wtf is this again?
+a cpp app and api to convert montreal's building registration codes to lat-long or addresses
